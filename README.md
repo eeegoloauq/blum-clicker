@@ -1,8 +1,6 @@
 # blum-clicker
 download rar, and open as project z.py. u can use any python shell
 
-in rar some images which pyautogui find and click.
-
 only lib u need is pip install pyautogui keyboard.
 
 change region or confidence on location if it need.
